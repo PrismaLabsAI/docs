@@ -8,9 +8,10 @@
   "navigation": {
     "groups": [
       {
-        "group": "Getting Started",
+        "group": "Модели",
+        "icon": "gem",
         "pages": [
-          "contacts"
+          "google-ai-studio"
         ]
       }
     ]
